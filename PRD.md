@@ -7,10 +7,10 @@ The goal of The Inspirer MVP is to provide graphic designers with immediate, str
 Graphic designers frequently experience creative block or feel intense pressure to generate fresh, innovative concepts quickly for client projects or personal work. Existing resources often offer generic inspiration, requiring significant time and effort to translate into actionable design concepts.
 
 ### 3. 👤 Target User
-•	Primary User: Graphic Designers (Student to Mid-Level)
-o	Demographics: Ages 18-35, comfortable with digital tools.
-o	Goal: To quickly find a starting point or a unique angle for a design project (e.g., logo, poster, web element) when they feel stuck.
-o	Pain Point: The blank canvas; the mental fatigue of forced ideation; time constraints.
+-	Primary User: Graphic Designers (Student to Mid-Level)
+-	Demographics: Ages 18-35, comfortable with digital tools.
+-	Goal: To quickly find a starting point or a unique angle for a design project (e.g., logo, poster, web element) when they feel stuck.
+-	Pain Point: The blank canvas; the mental fatigue of forced ideation; time constraints.
 
 ### 4. ✨ Must-Have MVP Features
 These three features are essential to solve the core problem for the target user in the first version.
