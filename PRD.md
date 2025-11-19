@@ -96,7 +96,7 @@ You will also need a separate list for the Project Type Filter feature (Section 
 | Example Items | 1. Logo Design |
 |  | 	2. Poster/Print Ad |
 |  | 	3. Mobile App UI Screen |
-|  | 	4. HSocial Media Campaign |
+|  | 	4. Social Media Campaign |
 |  | 	5. Book Cover Design |
 |  | 6. Packaging Design |
 
