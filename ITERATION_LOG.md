@@ -55,17 +55,17 @@
 ## Iteration 7
 **Problem**: Generations are limited to the examples given in the PRD; there are less combinations than the Google Gemini version.
 
-**Prompt**: 
+**Prompt**: Could you add more target audiences?
 
-**Result**: 
+**Result**: Ten more target audiences were added.
 
-**Status**:
+**Status**: 🤔 Partially working.
 
 ## Iteration 8 
 **Problem**: Generations are limited to the examples given in the PRD; there are less combinations than the Google Gemini version.
 
-**Prompt**: 
+**Prompt**: Could you add more emotion concepts?
 
-**Result**: 
+**Result**: Ten more emotion concepts.
 
-**Status**
+**Status**  ✅ Fixed
