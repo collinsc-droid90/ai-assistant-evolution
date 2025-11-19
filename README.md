@@ -43,7 +43,7 @@ Emotion/Concept - A feeling or message to convey (e.g., Nostalgia, Innovation, C
 - About 8,000 different prompt combinations
 
 ## Try It Yourself
-[Link to GitHub Pages deployment]
+file:///G:/My%20Drive/Artificial%20Intel.%20Fundamentals/Interations/index.html
 
 ## What I Learned
 Iteration is built on trial and error, which goes hand in hand with the importance of successful AI prompting. The more specific and clear your prompts are, the more accurate your results will be.
