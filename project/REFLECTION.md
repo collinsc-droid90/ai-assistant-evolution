@@ -41,6 +41,13 @@
 3. Is there anything you want to learn more about after this course?
 
    I'm really curious about how AI is applied in video games or household appliances. How does it remember player interactions, or how does the dryer know when your clothes are finished? That's some more advanced programming.
+
+## Honest Assessment: 🥇
+
+1. On a scale of 1-10, how confident do you feel working with AI tools now versus when the semester started? Why?
+
+   I would give my confidence a six. Even though I've done well in and out of this class, there are still many things I don't fully grasp or know how to handle (especially the terms). However, I'm happy to say that I've truly enjoyed learning about AI, and this practice has been really beneficial for me.
+
    
 
 
